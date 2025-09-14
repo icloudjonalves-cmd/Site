@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "apple-iphone-14-128-gb-128-meia-noite",
+    "brand": "apple_",
+    "name": "iPhone 14 128 GB",
+    "storage": "128",
+    "color": "meia noite",
+    "price": null,
+    "image": "/products/apple_iphone-14_128_meia-noite_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-128-gb-128-roxo",
+    "brand": "apple_",
+    "name": "iPhone 14 128 GB",
+    "storage": "128",
+    "color": "roxo",
+    "price": null,
+    "image": "/products/apple_iphone-14_128_roxo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-128-gb-128-azul",
+    "brand": "apple_",
+    "name": "iPhone 14 128 GB",
+    "storage": "128",
+    "color": "azul",
+    "price": null,
+    "image": "/products/apple_iphone-14_128_azul_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-128-gb-128-vermelho",
+    "brand": "apple_",
+    "name": "iPhone 14 128 GB",
+    "storage": "128",
+    "color": "vermelho",
+    "price": null,
+    "image": "/products/apple_iphone-14_128_vermelho_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-128-gb-128-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 14 128 GB",
+    "storage": "128",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-14_128_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-128-gb-128-estelar",
+    "brand": "apple_",
+    "name": "iPhone 14 128 GB",
+    "storage": "128",
+    "color": "estelar",
+    "price": null,
+    "image": "/products/apple_iphone-14_128_estelar_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-256-gb-256-meia-noite",
+    "brand": "apple_",
+    "name": "iPhone 14 256 GB",
+    "storage": "256",
+    "color": "meia noite",
+    "price": null,
+    "image": "/products/apple_iphone-14_256_meia-noite_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-256-gb-256-roxo",
+    "brand": "apple_",
+    "name": "iPhone 14 256 GB",
+    "storage": "256",
+    "color": "roxo",
+    "price": null,
+    "image": "/products/apple_iphone-14_256_roxo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-256-gb-256-azul",
+    "brand": "apple_",
+    "name": "iPhone 14 256 GB",
+    "storage": "256",
+    "color": "azul",
+    "price": null,
+    "image": "/products/apple_iphone-14_256_azul_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-256-gb-256-vermelho",
+    "brand": "apple_",
+    "name": "iPhone 14 256 GB",
+    "storage": "256",
+    "color": "vermelho",
+    "price": null,
+    "image": "/products/apple_iphone-14_256_vermelho_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-256-gb-256-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 14 256 GB",
+    "storage": "256",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-14_256_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-256-gb-256-estelar",
+    "brand": "apple_",
+    "name": "iPhone 14 256 GB",
+    "storage": "256",
+    "color": "estelar",
+    "price": null,
+    "image": "/products/apple_iphone-14_256_estelar_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-512-gb-512-meia-noite",
+    "brand": "apple_",
+    "name": "iPhone 14 512 GB",
+    "storage": "512",
+    "color": "meia noite",
+    "price": null,
+    "image": "/products/apple_iphone-14_512_meia-noite_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-512-gb-512-roxo",
+    "brand": "apple_",
+    "name": "iPhone 14 512 GB",
+    "storage": "512",
+    "color": "roxo",
+    "price": null,
+    "image": "/products/apple_iphone-14_512_roxo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-512-gb-512-azul",
+    "brand": "apple_",
+    "name": "iPhone 14 512 GB",
+    "storage": "512",
+    "color": "azul",
+    "price": null,
+    "image": "/products/apple_iphone-14_512_azul_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-512-gb-512-vermelho",
+    "brand": "apple_",
+    "name": "iPhone 14 512 GB",
+    "storage": "512",
+    "color": "vermelho",
+    "price": null,
+    "image": "/products/apple_iphone-14_512_vermelho_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-512-gb-512-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 14 512 GB",
+    "storage": "512",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-14_512_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-512-gb-512-estelar",
+    "brand": "apple_",
+    "name": "iPhone 14 512 GB",
+    "storage": "512",
+    "color": "estelar",
+    "price": null,
+    "image": "/products/apple_iphone-14_512_estelar_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-128-gb-128-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 128 GB",
+    "storage": "128",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_128_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-128-gb-128-meia-noite",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 128 GB",
+    "storage": "128",
+    "color": "meia noite",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_128_meia-noite_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-128-gb-128-roxo",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 128 GB",
+    "storage": "128",
+    "color": "roxo",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_128_roxo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-128-gb-128-vermelho",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 128 GB",
+    "storage": "128",
+    "color": "vermelho",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_128_vermelho_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-256-gb-256-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 256 GB",
+    "storage": "256",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_256_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-256-gb-256-meia-noite",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 256 GB",
+    "storage": "256",
+    "color": "meia noite",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_256_meia-noite_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-256-gb-256-roxo",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 256 GB",
+    "storage": "256",
+    "color": "roxo",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_256_roxo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-256-gb-256-vermelho",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 256 GB",
+    "storage": "256",
+    "color": "vermelho",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_256_vermelho_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-512-gb-512-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 512 GB",
+    "storage": "512",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_512_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-512-gb-512-meia-noite",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 512 GB",
+    "storage": "512",
+    "color": "meia noite",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_512_meia-noite_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-512-gb-512-roxo",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 512 GB",
+    "storage": "512",
+    "color": "roxo",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_512_roxo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-14-plus-512-gb-512-vermelho",
+    "brand": "apple_",
+    "name": "iPhone 14 Plus 512 GB",
+    "storage": "512",
+    "color": "vermelho",
+    "price": null,
+    "image": "/products/apple_iphone-14-plus_512_vermelho_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-128-gb-128-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 15 128 GB",
+    "storage": "128",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-15_128_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-128-gb-128-azul",
+    "brand": "apple_",
+    "name": "iPhone 15 128 GB",
+    "storage": "128",
+    "color": "azul",
+    "price": null,
+    "image": "/products/apple_iphone-15_128_azul_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-128-gb-128-preto",
+    "brand": "apple_",
+    "name": "iPhone 15 128 GB",
+    "storage": "128",
+    "color": "preto",
+    "price": null,
+    "image": "/products/apple_iphone-15_128_preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-128-gb-128-rosa",
+    "brand": "apple_",
+    "name": "iPhone 15 128 GB",
+    "storage": "128",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/apple_iphone-15_128_rosa_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-128-gb-128-verde",
+    "brand": "apple_",
+    "name": "iPhone 15 128 GB",
+    "storage": "128",
+    "color": "verde",
+    "price": null,
+    "image": "/products/apple_iphone-15_128_verde_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-256-gb-256-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 15 256 GB",
+    "storage": "256",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-15_256_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-256-gb-256-azul",
+    "brand": "apple_",
+    "name": "iPhone 15 256 GB",
+    "storage": "256",
+    "color": "azul",
+    "price": null,
+    "image": "/products/apple_iphone-15_256_azul_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-256-gb-256-preto",
+    "brand": "apple_",
+    "name": "iPhone 15 256 GB",
+    "storage": "256",
+    "color": "preto",
+    "price": null,
+    "image": "/products/apple_iphone-15_256_preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-256-gb-256-rosa",
+    "brand": "apple_",
+    "name": "iPhone 15 256 GB",
+    "storage": "256",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/apple_iphone-15_256_rosa_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-256-gb-256-verde",
+    "brand": "apple_",
+    "name": "iPhone 15 256 GB",
+    "storage": "256",
+    "color": "verde",
+    "price": null,
+    "image": "/products/apple_iphone-15_256_verde_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-512-gb-512-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 15 512 GB",
+    "storage": "512",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-15_512_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-512-gb-512-azul",
+    "brand": "apple_",
+    "name": "iPhone 15 512 GB",
+    "storage": "512",
+    "color": "azul",
+    "price": null,
+    "image": "/products/apple_iphone-15_512_azul_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-512-gb-512-preto",
+    "brand": "apple_",
+    "name": "iPhone 15 512 GB",
+    "storage": "512",
+    "color": "preto",
+    "price": null,
+    "image": "/products/apple_iphone-15_512_preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-512-gb-512-rosa",
+    "brand": "apple_",
+    "name": "iPhone 15 512 GB",
+    "storage": "512",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/apple_iphone-15_512_rosa_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-512-gb-512-verde",
+    "brand": "apple_",
+    "name": "iPhone 15 512 GB",
+    "storage": "512",
+    "color": "verde",
+    "price": null,
+    "image": "/products/apple_iphone-15_512_verde_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-plus-128-gb-128-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 15 PLUS 128 GB",
+    "storage": "128",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-15-plus_128_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-plus-128-gb-128-preto",
+    "brand": "apple_",
+    "name": "iPhone 15 PLUS 128 GB",
+    "storage": "128",
+    "color": "preto",
+    "price": null,
+    "image": "/products/apple_iphone-15-plus_128_preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-plus-128-gb-128-rosa",
+    "brand": "apple_",
+    "name": "iPhone 15 PLUS 128 GB",
+    "storage": "128",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/apple_iphone-15-plus_128_rosa_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-plus-256-gb-256-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 15 PLUS 256 GB",
+    "storage": "256",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-15-plus_256_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-plus-256-gb-256-preto",
+    "brand": "apple_",
+    "name": "iPhone 15 PLUS 256 GB",
+    "storage": "256",
+    "color": "preto",
+    "price": null,
+    "image": "/products/apple_iphone-15-plus_256_preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-plus-256-gb-256-rosa",
+    "brand": "apple_",
+    "name": "iPhone 15 PLUS 256 GB",
+    "storage": "256",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/apple_iphone-15-plus_256_rosa_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-plus-512-gb-512-amarelo",
+    "brand": "apple_",
+    "name": "iPhone 15 PLUS 512 GB",
+    "storage": "512",
+    "color": "amarelo",
+    "price": null,
+    "image": "/products/apple_iphone-15-plus_512_amarelo_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-plus-512-gb-512-preto",
+    "brand": "apple_",
+    "name": "iPhone 15 PLUS 512 GB",
+    "storage": "512",
+    "color": "preto",
+    "price": null,
+    "image": "/products/apple_iphone-15-plus_512_preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-15-plus-512-gb-512-rosa",
+    "brand": "apple_",
+    "name": "iPhone 15 PLUS 512 GB",
+    "storage": "512",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/apple_iphone-15-plus_512_rosa_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-16-128-gb-128-ultramarino",
+    "brand": "apple_",
+    "name": "iPhone 16 16 128 GB",
+    "storage": "128",
+    "color": "ultramarino",
+    "price": null,
+    "image": "/products/apple_iphone-16_128_ultramarino_.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16-128-gb-128-verde-acinzentado",
+    "brand": "apple_",
+    "name": "iPhone 16 16 128 GB",
+    "storage": "128",
+    "color": "verde acinzentado",
+    "price": null,
+    "image": "/products/apple_iphone-16_128_verde-acinzentado.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16-128-gb-128-branco",
+    "brand": "apple_",
+    "name": "iPhone 16 16 128 GB",
+    "storage": "128",
+    "color": "branco",
+    "price": null,
+    "image": "/products/apple_iphone-16_128_branco_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-16-128-gb-128-preto",
+    "brand": "apple_",
+    "name": "iPhone 16 16 128 GB",
+    "storage": "128",
+    "color": "preto",
+    "price": null,
+    "image": "/products/apple_iphone-16_128_preto_.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16-128-gb-128-rosa",
+    "brand": "apple_",
+    "name": "iPhone 16 16 128 GB",
+    "storage": "128",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/apple_iphone-16_128_rosa_.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16-256-gb-256-ultramarino",
+    "brand": "apple_",
+    "name": "iPhone 16 16 256 GB",
+    "storage": "256",
+    "color": "ultramarino",
+    "price": null,
+    "image": "/products/apple_iphone-16_256_ultramarino_.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16-256-gb-256-verde-acinzentado",
+    "brand": "apple_",
+    "name": "iPhone 16 16 256 GB",
+    "storage": "256",
+    "color": "verde acinzentado",
+    "price": null,
+    "image": "/products/apple_iphone-16_256_verde-acinzentado.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16-256-gb-256-branco",
+    "brand": "apple_",
+    "name": "iPhone 16 16 256 GB",
+    "storage": "256",
+    "color": "branco",
+    "price": null,
+    "image": "/products/apple_iphone-16_256_branco_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-16-256-gb-256-preto",
+    "brand": "apple_",
+    "name": "iPhone 16 16 256 GB",
+    "storage": "256",
+    "color": "preto",
+    "price": null,
+    "image": "/products/apple_iphone-16_256_preto_.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16-256-gb-256-rosa",
+    "brand": "apple_",
+    "name": "iPhone 16 16 256 GB",
+    "storage": "256",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/apple_iphone-16_256_rosa_.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16-512-gb-512-ultramarino",
+    "brand": "apple_",
+    "name": "iPhone 16 16 512 GB",
+    "storage": "512",
+    "color": "ultramarino",
+    "price": null,
+    "image": "/products/apple_iphone-16_512_ultramarino_.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16-512-gb-512-verde-acinzentado",
+    "brand": "apple_",
+    "name": "iPhone 16 16 512 GB",
+    "storage": "512",
+    "color": "verde acinzentado",
+    "price": null,
+    "image": "/products/apple_iphone-16_512_verde-acinzentado.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16-512-gb-512-branco",
+    "brand": "apple_",
+    "name": "iPhone 16 16 512 GB",
+    "storage": "512",
+    "color": "branco",
+    "price": null,
+    "image": "/products/apple_iphone-16_512_branco_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-16-512-gb-512-preto",
+    "brand": "apple_",
+    "name": "iPhone 16 16 512 GB",
+    "storage": "512",
+    "color": "preto",
+    "price": null,
+    "image": "/products/apple_iphone-16_512_preto_.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16-512-gb-512-rosa",
+    "brand": "apple_",
+    "name": "iPhone 16 16 512 GB",
+    "storage": "512",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/apple_iphone-16_512_rosa_.jpg.jpeg"
+  },
+  {
+    "id": "apple-iphone-16-16e-128-gb-128-branco",
+    "brand": "apple_",
+    "name": "iPhone 16 16E 128 GB",
+    "storage": "128",
+    "color": "branco",
+    "price": null,
+    "image": "/products/apple_iphone-16e_128_branco_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-16e-128-gb-128-preto",
+    "brand": "apple_",
+    "name": "iPhone 16 16E 128 GB",
+    "storage": "128",
+    "color": "preto",
+    "price": null,
+    "image": "/products/apple_iphone-16e_128_preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-16e-512-gb-512-branco",
+    "brand": "apple_",
+    "name": "iPhone 16 16E 512 GB",
+    "storage": "512",
+    "color": "branco",
+    "price": null,
+    "image": "/products/apple_iphone-16e_512_branco_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-16e-512-gb-512-preto",
+    "brand": "apple_",
+    "name": "iPhone 16 16E 512 GB",
+    "storage": "512",
+    "color": "preto",
+    "price": null,
+    "image": "/products/apple_iphone-16e_512_preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-128-gb-128-titanio-branco",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 128 GB",
+    "storage": "128",
+    "color": "titânio branco",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_128_titânio-branco_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-128-gb-128-titanio-natural",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 128 GB",
+    "storage": "128",
+    "color": "titânio natural",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_128_titânio-natural_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-128-gb-128-titanio-deserto",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 128 GB",
+    "storage": "128",
+    "color": "titânio deserto",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_128_titânio-deserto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-128-gb-128-titanio-preto",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 128 GB",
+    "storage": "128",
+    "color": "titânio preto",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_128_titânio-preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-256-gb-256-titanio-branco",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 256 GB",
+    "storage": "256",
+    "color": "titânio branco",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_256_titânio-branco_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-256-gb-256-titanio-natural",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 256 GB",
+    "storage": "256",
+    "color": "titânio natural",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_256_titânio-natural_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-256-gb-256-titanio-deserto",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 256 GB",
+    "storage": "256",
+    "color": "titânio deserto",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_256_titânio-deserto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-256-gb-256-titanio-preto",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 256 GB",
+    "storage": "256",
+    "color": "titânio preto",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_256_titânio-preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-512-gb-512-titanio-branco",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 512 GB",
+    "storage": "512",
+    "color": "titânio branco",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_512_titânio-branco_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-512-gb-512-titanio-natural",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 512 GB",
+    "storage": "512",
+    "color": "titânio natural",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_512_titânio-natural_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-512-gb-512-titanio-deserto",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 512 GB",
+    "storage": "512",
+    "color": "titânio deserto",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_512_titânio-deserto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-512-gb-512-titanio-preto",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO 512 GB",
+    "storage": "512",
+    "color": "titânio preto",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro_512_titânio-preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-max-1-tb-1tb-titanio-branco",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO MAX 1 TB",
+    "storage": "1tb",
+    "color": "titânio branco",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro-max_1tb_titânio-branco_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-max-1-tb-1tb-titanio-natural",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO MAX 1 TB",
+    "storage": "1tb",
+    "color": "titânio natural",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro-max_1tb_titânio-natural_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-max-1-tb-1tb-titanio-preto",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO MAX 1 TB",
+    "storage": "1tb",
+    "color": "titânio preto",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro-max_1tb_titânio-preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-max-256-gb-256-titanio-branco",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO MAX 256 GB",
+    "storage": "256",
+    "color": "titânio branco",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro-max_256_titânio-branco_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-max-256-gb-256-titanio-natural",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO MAX 256 GB",
+    "storage": "256",
+    "color": "titânio natural",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro-max_256_titânio-natural_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-max-256-gb-256-titanio-preto",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO MAX 256 GB",
+    "storage": "256",
+    "color": "titânio preto",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro-max_256_titânio-preto_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-max-512-gb-512-titanio-branco",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO MAX 512 GB",
+    "storage": "512",
+    "color": "titânio branco",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro-max_512_titânio-branco_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-max-512-gb-512-titanio-natural",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO MAX 512 GB",
+    "storage": "512",
+    "color": "titânio natural",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro-max_512_titânio-natural_.jpg.jfif"
+  },
+  {
+    "id": "apple-iphone-16-pro-max-512-gb-512-titanio-preto",
+    "brand": "apple_",
+    "name": "iPhone 16 PRO MAX 512 GB",
+    "storage": "512",
+    "color": "titânio preto",
+    "price": null,
+    "image": "/products/apple_iphone-16-pro-max_512_titânio-preto_.jpg.jfif"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a07-128-gb-128-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A07 128 GB",
+    "storage": "128",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a07_128_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a07-128-gb-128-verde",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A07 128 GB",
+    "storage": "128",
+    "color": "verde",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a07_128_verde_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a07-128-gb-128-violeta",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A07 128 GB",
+    "storage": "128",
+    "color": "violeta",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a07_128_violeta_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a07-256-gb-256-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A07 256 GB",
+    "storage": "256",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a07_256_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a07-256-gb-256-verde",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A07 256 GB",
+    "storage": "256",
+    "color": "verde",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a07_256_verde_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a07-256-gb-256-violeta",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A07 256 GB",
+    "storage": "256",
+    "color": "violeta",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a07_256_violeta_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a17-128-gb-128-cinza",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A17 128 GB",
+    "storage": "128",
+    "color": "cinza",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a17_128_cinza_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a17-128-gb-128-azul",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A17 128 GB",
+    "storage": "128",
+    "color": "azul",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a17_128_azul_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a17-128-gb-128-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A17 128 GB",
+    "storage": "128",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a17_128_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a17-256-gb-256-cinza",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A17 256 GB",
+    "storage": "256",
+    "color": "cinza",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a17_256_cinza_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a17-256-gb-256-azul",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A17 256 GB",
+    "storage": "256",
+    "color": "azul",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a17_256_azul_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a17-256-gb-256-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A17 256 GB",
+    "storage": "256",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a17_256_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a26-256-gb-256-branco",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A26 256 GB",
+    "storage": "256",
+    "color": "branco",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a26_256_branco_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a26-256-gb-256-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A26 256 GB",
+    "storage": "256",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a26_256_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a26-256-gb-256-verde",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A26 256 GB",
+    "storage": "256",
+    "color": "verde",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a26_256_verde_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a36-128-gb-128-verde",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A36 128 GB",
+    "storage": "128",
+    "color": "verde",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a36_128_verde_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a36-128-gb-128-branco",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A36 128 GB",
+    "storage": "128",
+    "color": "branco",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a36_128_branco_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a36-128-gb-128-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A36 128 GB",
+    "storage": "128",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a36_128_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a36-256-gb-256-verde",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A36 256 GB",
+    "storage": "256",
+    "color": "verde",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a36_256_verde_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a36-256-gb-256-branco",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A36 256 GB",
+    "storage": "256",
+    "color": "branco",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a36_256_branco_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a36-256-gb-256-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A36 256 GB",
+    "storage": "256",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a36_256_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a56-128-gb-128-branco",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A56 128 GB",
+    "storage": "128",
+    "color": "branco",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a56_128_branco_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a56-128-gb-128-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A56 128 GB",
+    "storage": "128",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a56_128_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a56-128-gb-128-rosa",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A56 128 GB",
+    "storage": "128",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a56_128_rosa_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a56-256-gb-256-branco",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A56 256 GB",
+    "storage": "256",
+    "color": "branco",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a56_256_branco_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a56-256-gb-256-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A56 256 GB",
+    "storage": "256",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a56_256_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-a56-256-gb-256-rosa",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy A56 256 GB",
+    "storage": "256",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/samsumg_galaxy-a56_256_rosa_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s24-fe-128-gb-128-azul",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S24 FE 128 GB",
+    "storage": "128",
+    "color": "azul",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s24-fe_128_azul_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s24-fe-128-gb-128-branco",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S24 FE 128 GB",
+    "storage": "128",
+    "color": "branco",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s24-fe_128_branco_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s24-fe-128-gb-128-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S24 FE 128 GB",
+    "storage": "128",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s24-fe_128_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s24-fe-256-gb-256-azul",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S24 FE 256 GB",
+    "storage": "256",
+    "color": "azul",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s24-fe_256_azul_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s24-fe-256-gb-256-branco",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S24 FE 256 GB",
+    "storage": "256",
+    "color": "branco",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s24-fe_256_branco_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s24-fe-256-gb-256-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S24 FE 256 GB",
+    "storage": "256",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s24-fe_256_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s25-128-gb-128-jetblack",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S25 128 GB",
+    "storage": "128",
+    "color": "jetblack",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s25_128_jetblack_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s25-256-gb-256-jetblack",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S25 256 GB",
+    "storage": "256",
+    "color": "jetblack",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s25_256_jetblack_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s56-galaxy-fit3-128-gb-128-cinza",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S56 + Galaxy FIT3 128 GB",
+    "storage": "128",
+    "color": "cinza",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s56+galaxy-fit3_128_cinza_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s56-galaxy-fit3-128-gb-128-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S56 + Galaxy FIT3 128 GB",
+    "storage": "128",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s56+galaxy-fit3_128_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s56-galaxy-fit3-128-gb-128-rosa",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S56 + Galaxy FIT3 128 GB",
+    "storage": "128",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s56+galaxy-fit3_128_rosa_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s56-galaxy-fit3-256-gb-256-cinza",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S56 + Galaxy FIT3 256 GB",
+    "storage": "256",
+    "color": "cinza",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s56+galaxy-fit3_256_cinza_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s56-galaxy-fit3-256-gb-256-preto",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S56 + Galaxy FIT3 256 GB",
+    "storage": "256",
+    "color": "preto",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s56+galaxy-fit3_256_preto_.jpg.png"
+  },
+  {
+    "id": "samsumg-samsung-galaxy-s56-galaxy-fit3-256-gb-256-rosa",
+    "brand": "samsumg_",
+    "name": "Samsung Galaxy S56 + Galaxy FIT3 256 GB",
+    "storage": "256",
+    "color": "rosa",
+    "price": null,
+    "image": "/products/samsumg_galaxy-s56+galaxy-fit3_256_rosa_.jpg.png"
+  }
+]
